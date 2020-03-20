@@ -1,0 +1,29 @@
+{
+    "name": "react-package",
+    "displayName": "react package",
+    "description": "VS code extension for ReactJS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "cbrevik.toggle-format-on-save", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dsznajder.es7-react-js-snippets", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.code-runner", 
+        "ms-azuretools.vscode-docker", 
+        "msjsdiag.debugger-for-chrome", 
+        "oderwat.indent-rainbow", 
+        "PrimaFuture.open-php-html-js-in-browser", 
+        "ritwickdey.LiveServer", 
+        "sidthesloth.html5-boilerplate", 
+        "silvenon.mdx", 
+        "streetsidesoftware.code-spell-checker", 
+        "wwm.better-align", 
+        "Zignd.html-css-class-completion"
+    ]
+}
