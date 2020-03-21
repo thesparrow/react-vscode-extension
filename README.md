@@ -72,17 +72,12 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 
 [https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
+###Take snapshots of code and share extensions 
+
 ## Settings Sync
 
 [Sync all extensions and complete User Folder](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-###Take snapshots of code and share extensions 
-
 ## Polacode
 
-[https://marketplace.visualstudio.com/items?itemName=pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-
-
-## Polacode
-
-[https://marketplace.visualstudio.com/items?itemName=pnp.polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+[Take Snapshot of your code](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
