@@ -15,15 +15,16 @@
         "dsznajder.es7-react-js-snippets", 
         "esbenp.prettier-vscode", 
         "formulahendry.code-runner", 
-        "ms-azuretools.vscode-docker", 
         "msjsdiag.debugger-for-chrome", 
         "oderwat.indent-rainbow", 
-        "PrimaFuture.open-php-html-js-in-browser", 
-        "ritwickdey.LiveServer", 
-        "sidthesloth.html5-boilerplate", 
+        "ritwickdey.LiveServer",  
         "silvenon.mdx", 
         "streetsidesoftware.code-spell-checker", 
+        "aaron-bond.better-comments",
+        "qezhu.gitlink",
         "wwm.better-align", 
-        "Zignd.html-css-class-completion"
+        "Zignd.html-css-class-completion",
+        "pnp.polacode",
+        "Shan.code-settings-sync"
     ]
 }
