@@ -12,11 +12,11 @@ This an extension pack for Visual Studio Code with extensions that are extremely
 
 ## Live Server
 
-[Launch a development server with live reload features (this can also be taken care of with gatsby or another server)]https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+[Launch a development server with live reload features (this can also be taken care of with gatsby or another server)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Browser Preview
 
-[https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
+[Preview in browser with a launch](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
 
 ###Code format and alignment:
